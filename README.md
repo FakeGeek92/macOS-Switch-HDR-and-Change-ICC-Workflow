@@ -12,11 +12,11 @@ Using this Alfred workflow, you can switch HDR and change different ICC color pr
 
 # How to use
 ## Only switch HDR
-- Download "HDR switch.workflow"
+- Download "HDR switch.Alfredworkflow"
 - or use "Switch HDR.AppleScript" code to create a system shortcut. For how to create shortcuts, see this [readme](https://github.com/ppkantorski/macOS-HDR-Toggler#how-to-use-program).
 
 ## Switch HDR and change ICC
-- Download "Switch HDR&Change ICC. workflow"
+- Download "Switch HDR&Change ICC.Alfredworkflow"
 - Download "customdisplayprofiles"
 - Open workflow and custom your "customdisplayprofiles" path and your HDR and SDR ICC path
 ![](assets/16552127311243.jpg)
